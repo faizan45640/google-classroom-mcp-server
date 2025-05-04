@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/faizan45640-google-classroom-mcp-server-badge.png)](https://mseep.ai/app/faizan45640-google-classroom-mcp-server)
+
 # Google Classroom MCP Server
 [![smithery badge](https://smithery.ai/badge/@faizan45640/google-classroom-mcp-server)](https://smithery.ai/server/@faizan45640/google-classroom-mcp-server)
 
